@@ -81,10 +81,6 @@ The report provides a comprehensive evaluation of how different finite differenc
   - Results/
 ```
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contribution
 
 Feel free to submit issues or contribute if you'd like to improve or expand on the work.
@@ -93,7 +89,7 @@ Feel free to submit issues or contribute if you'd like to improve or expand on t
 
 ## Author
 
-- **Your Name** - [Your GitHub Profile](https://github.com/username)
+- **Arinze Ibemorah** - [@reezy22](https://github.com/reezy22)
 
 ---
 
